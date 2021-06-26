@@ -1,0 +1,12 @@
+ElementStatisticsAdapter.java
+ ElementStatisticsAdapter
+Main.java
+ Main
+Type.java
+ Type
+StatisticsPrinter.java
+ StatisticsPrinter
+Statistics.java
+ Statistics
+Element.java
+ Element
